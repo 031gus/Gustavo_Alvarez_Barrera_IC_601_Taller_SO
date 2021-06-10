@@ -1,0 +1,1 @@
+este archivo contiene datos que seran utilizados para el programa de gestion de archivos en la materia de sistemas operativos
